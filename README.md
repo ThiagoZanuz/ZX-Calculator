@@ -8,8 +8,6 @@ This is a desktop calculator application made with Python and the PySide6 framew
 
 A simple desktop calculator built with Python and PySide6.
 
-![Calculator Screenshot](files/calculator-screenshot.png)
-
 ### Features
 
 *   Basic math operations: `+`, `-`, `*`, `/`
@@ -27,11 +25,11 @@ A simple desktop calculator built with Python and PySide6.
 
 1.  **Clone this repository:**
     ```sh
-    git clone https://github.com/[Your-GitHub-Username]/[Your-Repo-Name].git
+    git clone https://github.com/ThiagoZanuz/ZX-Calculator.git
     ```
 2.  **Go to the project folder:**
     ```sh
-    cd [Your-Repo-Name]
+    cd ZX-Calculator
     ```
 3.  **Install dependencies:**
     ```sh
@@ -49,4 +47,3 @@ A simple desktop calculator built with Python and PySide6.
 *   `display.py`: The calculator's screen.
 *   `button.py`: Code for the buttons and all the math logic.
 *   `variables.py`: Stores constants like font sizes.
-*   `files/`: Contains the window icon.
