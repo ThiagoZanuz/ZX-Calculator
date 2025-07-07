@@ -48,6 +48,6 @@ A simple desktop calculator built with Python and PySide6.
 *   `button.py`: Code for the buttons and all the math logic.
 *   `variables.py`: Stores constants like font sizes.
 
-## Credits
+### Credits
 
 This project was developed with the great help of the teachings from professor **Otávio Miranda**.
