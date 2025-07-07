@@ -24,19 +24,19 @@ A simple desktop calculator built with Python and PySide6.
 ### How to Run It
 
 1.  **Clone this repository:**
-    ```sh
+    ```
     git clone https://github.com/ThiagoZanuz/ZX-Calculator.git
     ```
 2.  **Go to the project folder:**
-    ```sh
+    ```
     cd ZX-Calculator
     ```
 3.  **Install dependencies:**
-    ```sh
+    ```
     pip install PySide6
     ```
 4.  **Run the application:**
-    ```sh
+    ```
     python main.py
     ```
 
